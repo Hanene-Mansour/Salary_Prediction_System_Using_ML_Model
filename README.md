@@ -9,7 +9,7 @@
  - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
  - Data Visualization - `scatter plot and regression plot to visualize the data and it's characteristics.`
  - Machine Learning Algorithms Used - `Linear Regression `
- - Evaluation Metrics Used - `Mean Squared Error(MSE) and R-squared and `
+ - Evaluation Metrics Used - `Mean Squared Error(MSE) , Mean Absolute Error (MAE) and R-squared and `
 
 
 
