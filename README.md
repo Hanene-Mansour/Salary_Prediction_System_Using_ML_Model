@@ -1,7 +1,7 @@
 # Salary_Prediction_System_Using_ML_Model
 
 
-
+Hello! My application named "Salary Prediction".
 
 # Methodology
 
